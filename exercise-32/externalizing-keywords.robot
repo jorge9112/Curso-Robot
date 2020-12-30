@@ -10,7 +10,7 @@ Suite Setup  Run Keywords   Navigate To Home Page  Delete Invoice If Exists
 Suite Teardown  Run Keywords    Close Browser
 
 
-*** Test Cases ***
+*** Test Cases ****
 Create an Invoice
     Click Add Invoice
     ${invoiceNumber}=    Create Invoice Number
