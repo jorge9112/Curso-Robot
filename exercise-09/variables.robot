@@ -6,7 +6,7 @@ Suite Teardown  Close Browser
 
 *** Test Cases ***
 Using Variables
-  Comment    This test should use variables for the url and the browser.
+  Comment    This test should use variables for the url and the browser..
 
 *** Keywords ***
 Navigate To Home Page

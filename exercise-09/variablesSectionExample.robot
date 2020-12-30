@@ -12,4 +12,4 @@ Using Variable
 *** Variables ***
 ${name}  Paul
 ${color}  teal
-${team}   Jaguars
+${team}   Jaguars.

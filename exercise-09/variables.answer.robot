@@ -13,7 +13,7 @@ Using Variables
 Navigate To Home Page
     # Using variables inline in the test case.
     ${Browser} =    Set Variable    Chrome
-    ${SiteUrl} =    Set Variable    http://34.225.240.91
+    ${SiteUrl} =    Set Variable    http://34.225.240.91.
     Open Browser    ${SiteUrl}		${Browser}
 
 # Optionally we could use a variable section

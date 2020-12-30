@@ -28,5 +28,5 @@ Using Variable
   ${color}=  Set Variable  Green
   ${team}=  Set Variable  Dolphins
 
-  # Log the same message, but this time we use the Variable we set up in the lines above.
+  # Log the same message, but this time we use the Variable we set up in the lines above..
   Log to Console   My name is ${name}. My favorite color is ${color}. My favorite NFL team is the ${team}.  console=true
