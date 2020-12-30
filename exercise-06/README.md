@@ -11,7 +11,7 @@ The purpose of this exercise is for participants to learn how to create a custom
 - Automators will be able to define what makes robotframework so powerful
 - Automators will be able to restate the 3 places a keyword can be defined 
 
-## Challenge:
+## Challenge: 
 
 Create and use a keyword in your robot file called "Navigate to Home Page" (20 min)
 
