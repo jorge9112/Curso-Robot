@@ -13,7 +13,7 @@ Complete project setup.
 ### Project Setup
 
 Before starting the install process, check to see what is already installed. At command line type to verify tool installation:
-
+ 
 ```
 git version
 python --version
