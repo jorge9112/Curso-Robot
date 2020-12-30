@@ -10,7 +10,7 @@ The purpose of this exercise is to learn where keywords come from.
 - Automators will be able to use a keyword in a test script
 - Automators will be able to find keywords and keyword documents
 
-## Challenge:
+## Challenge: 
 Determine which Library(ies) should be included for the test to pass (10 min)
 
 **Extra Credit:** Close the browser when the test finishes
