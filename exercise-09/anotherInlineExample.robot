@@ -12,7 +12,7 @@ Using Variable
   # Log the same message, but this time we use the Variable we set up in the lines above.
   Log to Console   \nMy name is ${name}. My favorite color is ${color}. My favorite NFL team is the ${team}.  console=true
 
-  # Log this in a profile-style
+  # Log this in a profile-styler
   Log to Console  Profile:  console=true
   Log to Console  Name: \t\t\t${name}  console=true
   Log to Console  Favorite color: \t${color}  console=true
