@@ -1,4 +1,4 @@
-report.html
+report.html.
 log.html
 output.xml
 *.jpg
@@ -7,4 +7,4 @@ output.xml
 .idea
 *.pyc
 *.db
-.DS_Store
+.DS_Store.
