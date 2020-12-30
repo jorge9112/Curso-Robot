@@ -9,4 +9,4 @@ Add Invoice
     Input Text  dueDate   ${Date}
     Input Text  comment   ${Comments}
     Select From List By Value   selectStatus    ${Status}
-    Click Button    createButton
+    Click Button    createButton}

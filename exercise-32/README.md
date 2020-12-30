@@ -9,4 +9,4 @@ Learn how to externalize keywords
 - Given a test file and supporting files, Automators will be able to state the locations a keyword could be
 
 ## Challenge:
-Create a keywor called "Add Invoice" and externalize it.
+Create a keywor called "Add Invoice" and externalize it..

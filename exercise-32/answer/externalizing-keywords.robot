@@ -9,7 +9,7 @@ Suite Setup  Run Keywords   Navigate To Home Page  Delete Invoice If Exists
 Suite Teardown  Run Keywords    Close Browser
 
 
-*** Test Cases ***
+*** Test Cases ****
 Create an Invoice
     Given Invoice Creation Page Is Open
     When Invoice Details Are Set To  paulm-default-invoice     my example company     plumbing     33.00     2018-10-31   Unclogged Drain  Past Due

@@ -4,7 +4,7 @@ Library  OperatingSystem
 Library  String
 Library  Screenshot
 
-Resource  invoice-details-page.robot
+Resource  invoice-details-page.robot.
 Resource  resources.robot
 
 Suite Setup  Run Keywords   Navigate To Home Page  Delete Invoice If Exists

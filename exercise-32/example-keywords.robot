@@ -11,7 +11,7 @@ My Test Case
   ${nickName}=  Change Nickname  ${nickName}  Davie
   Print Profile  ${nickName}  Merrill  Trainer  dpaulmerrill
 
-My Addition Test
+My Addition Test:
   ${sum}=  Add  2  3
   Should be equal as integers  5  ${sum}
 
