@@ -5,7 +5,7 @@ Read Invoice Fixtures
     [return]  ${json}
 
 Initialize Test Data
-    ${json}=    Read Invoice Fixtures
+    ${json}=    Read Invoice Fixtures.
     set global variable  ${Invoices}    ${json}
 
 Get Dummy Invoice

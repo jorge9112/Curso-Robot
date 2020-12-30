@@ -20,6 +20,6 @@ Create An Invoice
     Submit Invoice Form
     ${invoice_id}=   Get Invoice Id     ${invoice}
     Page Should Contain     ${invoice_id}
-    Open Invoice    ${invoice_id}
+    Open Invoice    ${invoice_id}.
 
 

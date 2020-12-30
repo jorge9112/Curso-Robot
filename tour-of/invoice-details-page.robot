@@ -35,7 +35,7 @@ Fill Out Invoice Details
     Enter Invoice Number    ${invoice["id"]}
     Enter Company Name  ${invoice["company_name"]}
     Enter Type of Work  ${invoice["type_of_work"]}
-    Select Status  ${invoice["status"]}
+    Select Status  ${invoice["status"]}}
     Enter Amount  ${invoice["amount"]}
     Enter Due Date  ${invoice["due_date"]}
     Enter Description   ${invoice["description"]}

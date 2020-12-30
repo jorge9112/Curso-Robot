@@ -4,4 +4,4 @@ Navigate To Add Invoice
 
 Open Invoice
     [Arguments]    ${id}
-    Click Link    css:#invoiceNo_${id} > a
+    Click Link    css:#invoiceNo_${id} > a.

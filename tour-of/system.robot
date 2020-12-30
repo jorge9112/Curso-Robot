@@ -12,4 +12,4 @@ Exit Selenium
     
 Generate Random Number
     ${random_number}    Evaluate    random.randint(1000000, 9999999)   random
-    [return]    ${random_number}
+    [return]    ${random_number}.
