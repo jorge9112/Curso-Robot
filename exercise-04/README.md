@@ -13,4 +13,4 @@ The purpose of this exercise is to learn where keywords come from.
 ## Challenge: 
 Determine which Library(ies) should be included for the test to pass (10 min)
 
-**Extra Credit:** Close the browser when the test finishes
+**Extra Credit:** Close the browser when the test finishes 
