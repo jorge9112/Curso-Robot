@@ -1,6 +1,6 @@
 *** Settings ***
 # Set the path in the import  
-Library  ./calculator.py 
+Library  ./calculator.py.
 
 # OR...
 

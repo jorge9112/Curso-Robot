@@ -10,4 +10,3 @@ Library  ./leap_year.py
 2015 should not be a leap year
     ${result}=  is_leap_year   2015
     Should Not Be True  ${result}
-
