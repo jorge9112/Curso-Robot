@@ -12,4 +12,4 @@ The purpose of this exercise is to learn how variables can be moved to resource 
 
 ## Challenges:
 
-Move the variables to a location outside of the test file. (15 min)
+Move the variables to a location outside of the test file. (15 min).
