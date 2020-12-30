@@ -57,4 +57,4 @@ Beaufort Fairmont appreciates your business! Find other courses, consulting, and
 ### Missing data ###
 8/31/20 - Data in the system will be cleaned out every Monday at 12:00 AM ET (midnight, eastcoast of US timezone).
 
-If it is not that time, make sure to scroll the invoices page for your invoice.
+If it is not that time, make sure to scroll the invoices page for your invoice..
